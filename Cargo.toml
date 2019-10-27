@@ -1,0 +1,8 @@
+[package]
+name = "ssh2ex"
+version = "0.1.0"
+authors = ["jywww <jywww@qq.com>"]
+
+[dependencies]
+ssh2 = "*"
+snafu = "0.5.0"
